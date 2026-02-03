@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   transform: translateY(-2px);
 }
 
-/* ===== Images ===== */
+
 img {
   width: 100%;
   height: auto;
@@ -173,7 +173,7 @@ form button:focus {
   border: 0;
 }
 
-/* ===== Responsive ===== */
+
 @media (max-width: 768px) {
   .main-nav ul {
     flex-direction: column;
